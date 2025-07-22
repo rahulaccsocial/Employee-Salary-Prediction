@@ -4,9 +4,9 @@ This Streamlit web application predicts whether an employee earns more than ₹5
 
 ## 📸 Screenshot
 
-![App Screenshot](https://github.com/rahulaccsocial/Employee-Salary-Prediction-Using-Machine-Learning/blob/main/preview.jpg.png?raw=true)
+![App Screenshot]()
 
-![App Screenshot](https://github.com/rahulaccsocial/Employee-Salary-Prediction-Using-Machine-Learning/blob/main/preview1.jpg.png?raw=true)
+![App Screenshot]()
 
 ---
 
