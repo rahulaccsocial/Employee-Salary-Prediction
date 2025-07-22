@@ -24,5 +24,4 @@ This Streamlit web application predicts whether an employee earns more than ₹5
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/employee-salary-prediction.git
-   cd employee-salary-prediction
+   git clone https://github.com/rahulaccsocial/Employee-Salary-Prediction.git
